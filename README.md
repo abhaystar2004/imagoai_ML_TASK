@@ -107,10 +107,10 @@ The app includes error handling for:
 After uploading a valid CSV file, the app will display predictions for each row:
 
 
-| Row ID | Predicted Class |
+| Row ID | Predicted Value |
 | :-- | :-- |
-| imagoai_corn_0 | Class A |
-| imagoai_corn_1 | Class B |
+| imagoai_corn_0 | Value A |
+| imagoai_corn_1 | Value B |
 | ... | ... |
 
 ---
